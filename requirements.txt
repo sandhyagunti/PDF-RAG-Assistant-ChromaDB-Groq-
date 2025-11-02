@@ -1,0 +1,8 @@
+#pip install -r requirements.txt
+#streamlist run app.py
+streamlit==1.39.0
+requests==2.32.3
+chromadb==0.5.5
+sentence-transformers==3.2.0
+PyPDF2==3.0.1
+
